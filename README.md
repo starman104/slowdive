@@ -62,3 +62,4 @@ The application will be created in the same folder you extracted, along with a n
 
 https://github.com/user-attachments/assets/82bdbe41-a7cf-4a01-bdb5-444c5b565d3b
 
+### MIT LICENSE 
