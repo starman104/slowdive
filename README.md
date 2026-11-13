@@ -7,16 +7,16 @@ It is made with swift and all the code required is open source and for anyone to
 <img width="933" height="414" alt="image" src="https://github.com/user-attachments/assets/3c856ed5-3167-48f3-b8ce-9eff3a3060b1" />
 2. Extract the zip file to any suitable location.
 3. Install xcode-select (If you have not.)
-```
+```bash
 xcode-select --install
 ```
-4. Change the directory to the extracted Slowdive Folder and build the application.
-```
+5. Change the directory to the extracted Slowdive Folder and build the application.
+```bash
 cd 'YOUR SLOWDIVE FOLDER DIRECTORY'
 zsh build.sh
 ```
-5. You will be responded as:
-```
+7. You will be responded as:
+```bash
 Creating empty game list...
 Compiling (this takes about a minute)...
 
