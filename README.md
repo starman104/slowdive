@@ -3,27 +3,38 @@ Game Launcher inspired from Nintendo Wii (Frutiger Aero) for macOS. Supports .ap
 It is made with swift and all the code required is open source and for anyone to tweak.
 
 ## Installation Guide
-1. Download the Code as zip.
-<img width="933" height="414" alt="image" src="https://github.com/user-attachments/assets/3c856ed5-3167-48f3-b8ce-9eff3a3060b1" />
-2. Extract the zip file to any suitable location.
-3. Install xcode-select (If you have not.)
-```bash
-xcode-select --install
-```
-5. Change the directory to the extracted Slowdive Folder and build the application.
-```bash
-cd 'YOUR SLOWDIVE FOLDER DIRECTORY'
-zsh build.sh
-```
-7. You will be responded as:
-```bash
-Creating empty game list...
-Compiling (this takes about a minute)...
 
-Done: /Users/sarvesh/Code/Personal Projects/Slowdive/Slowdive.app
-Double-click it to start. Press Cmd+, inside Slowdive to add your games.
-```
-and the code ran successfully. The application will be made in the same folder you extracted with a new folder as 'Source' which stores all the wallpapers and sounds. You can edit your game tiles, wallpaper, sound settings and other general settings via the gear icon or pressing ⌘ + , in your keyboard. Thank you for checking this out!
+1. Download the Code as zip.
+
+   <img width="933" height="414" alt="image" src="https://github.com/user-attachments/assets/3c856ed5-3167-48f3-b8ce-9eff3a3060b1" />
+
+2. Extract the zip file to any suitable location.
+
+3. Install xcode-select (If you have not.)
+
+   ```bash
+   xcode-select --install
+   ```
+
+4. Change the directory to the extracted Slowdive Folder and build the application.
+
+   ```bash
+   cd 'YOUR SLOWDIVE FOLDER DIRECTORY'
+   zsh build.sh
+   ```
+
+5. You will see the following output once the build completes:
+
+   ```text
+   Creating empty game list...
+   Compiling (this takes about a minute)...
+
+   Done: /Users/sarvesh/Code/Personal Projects/Slowdive/Slowdive.app
+   Double-click it to start. Press Cmd+, inside Slowdive to add your games.
+   ```
+
+The application will be created in the same folder you extracted, along with a new folder named `Source` which stores all the wallpapers and sounds. You can edit your game tiles, wallpaper, sound settings, and other general settings via the gear icon or by pressing `⌘ + ,` on your keyboard. Thank you for checking this out!
+
 
 ## Previews
 <p align="center">
